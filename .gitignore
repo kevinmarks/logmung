@@ -101,3 +101,5 @@ ENV/
 .mypy_cache/
 #output files
 *.tsv
+#input file
+access.log.1
